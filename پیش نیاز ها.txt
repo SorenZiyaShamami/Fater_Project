@@ -1,0 +1,8 @@
+پیش نیاز ها
+
+customtkinter
+tkinter
+requests
+flask
+
+
